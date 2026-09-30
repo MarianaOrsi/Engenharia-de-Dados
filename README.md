@@ -1,4 +1,4 @@
-# 🚀 Engenharia de Dados — Faculdade
+# 🚀 Pós-Graduação: Análise de Big Data – Data Engineering.
 
 Repositório dedicado aos estudos, exercícios, projetos e experimentos desenvolvidos durante minha formação em **Big Data e Engenharia de Dados**.
 
