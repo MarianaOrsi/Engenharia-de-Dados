@@ -70,6 +70,7 @@ Durante a formação, este repositório será utilizado para:
 
 * ETL
 * ELT
+* CI/CD
 * Data Ingestion
 * Data Transformation
 * Data Orchestration
