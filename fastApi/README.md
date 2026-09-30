@@ -17,6 +17,3 @@ um pipeline de Engenharia de Dados.
 - Pydantic
 - Git/GitHub
 
-## 🚀 Como executar
-
-...
